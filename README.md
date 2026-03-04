@@ -117,7 +117,6 @@ Counts reads mapping to each gene across all 6 samples simultaneously, using a h
 
 ## Requirements
 
-- WashU RIS HPC cluster access (LSF job scheduler)
 - Docker-enabled compute nodes
 - The following Docker images (pulled automatically on first run):
   - `staphb/fastp`
