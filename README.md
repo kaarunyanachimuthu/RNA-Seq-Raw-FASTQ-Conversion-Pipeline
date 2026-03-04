@@ -177,9 +177,9 @@ Before running, open `bulk_rnaseq_pipeline.sh` and update the following variable
 
 ```bash
 # Your HPC paths
-export SCRATCH1=/scratch1/fs1/bigley
+export SCRATCH1=/path/to/scratch1
 export HOME=/home/kaarunya
-export STORAGE1=/storage1/fs1/bigley/Active
+export STORAGE1=/path/to/storage1
 
 # Path to pre-built bowtie2 hg38 index prefix
 INDEX="${BASE_DIR}/hg38_index"
