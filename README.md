@@ -1,6 +1,6 @@
 # RNA-Seq-Raw-FASTQ-Conversion-Pipeline
 
-A bash pipeline designed sequentially for processing paired-end bulk RNA-seq data on HPC cluster (LSF + Docker). Takes raw FASTQ files through quality control, alignment, and quantification to produce a gene counts matrix ready for downstream analysis (e.g. DESeq2, edgeR).
+A bash pipeline designed sequentially for processing paired-end bulk RNA-seq data on HPC cluster (LSF + Docker). Takes raw FASTQ files through quality control, alignment, and quantification to produce a gene counts matrix ready for downstream analysis.
 
 ---
 
